@@ -3,7 +3,7 @@ This project contains a Wordle Solver as well as a Wordle Game with a UI made wi
 
 # Instructions to play
 clone this repo to the local machine
-`git clone `
+`git clone https://github.com/VarKal23/Wordle-UI-and-Solver.git`
 
 go into the project folder
 `cd wordle-ui-and-solver`
@@ -14,7 +14,7 @@ to launch the Wordle Solver from the command line
 
 to launch the Wordle UI from the command line
 `cd Wordle UI `
-`python python .\wordle_gui.py`
+`python .\wordle_gui.py`
 
 # Reflection
 I created this project as part of a class project in order to develop my understanding of python data structures as well as familiarize myself with python syntax.
